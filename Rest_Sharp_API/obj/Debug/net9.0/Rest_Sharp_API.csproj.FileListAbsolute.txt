@@ -1,0 +1,17 @@
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\Rest_Sharp_API.exe
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\Rest_Sharp_API.deps.json
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\Rest_Sharp_API.runtimeconfig.json
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\Rest_Sharp_API.dll
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\Rest_Sharp_API.pdb
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\bin\Debug\net9.0\RestSharp.dll
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.csproj.AssemblyReference.cache
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.AssemblyInfoInputs.cache
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.AssemblyInfo.cs
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.csproj.CoreCompileInputs.cache
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sha.EAA81394.Up2Date
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.dll
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\refint\Rest_Sharp_API.dll
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.pdb
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\Rest_Sharp_API.genruntimeconfig.cache
+C:\Users\otabek.ozbeg\source\repos\Rest_Sharp_API\Rest_Sharp_API\obj\Debug\net9.0\ref\Rest_Sharp_API.dll

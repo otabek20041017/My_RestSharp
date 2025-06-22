@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otabek.ozbeg\\source\\repos\\Rest_Sharp_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19561D5-547B-4FFE-B509-263B36A80FBD}|Rest_Sharp_API\\Rest_Sharp_API.csproj|c:\\users\\otabek.ozbeg\\source\\repos\\rest_sharp_api\\rest_sharp_api\\rest-api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19561D5-547B-4FFE-B509-263B36A80FBD}|Rest_Sharp_API\\Rest_Sharp_API.csproj|solutionrelative:rest_sharp_api\\rest-api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rest-Api.cs",
+              "DocumentMoniker": "C:\\Users\\otabek.ozbeg\\source\\repos\\Rest_Sharp_API\\Rest_Sharp_API\\Rest-Api.cs",
+              "RelativeDocumentMoniker": "Rest_Sharp_API\\Rest-Api.cs",
+              "ToolTip": "C:\\Users\\otabek.ozbeg\\source\\repos\\Rest_Sharp_API\\Rest_Sharp_API\\Rest-Api.cs",
+              "RelativeToolTip": "Rest_Sharp_API\\Rest-Api.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:40:53.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
