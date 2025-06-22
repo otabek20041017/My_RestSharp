@@ -17,8 +17,8 @@ namespace Rest_Sharp_API
             var response = client.Execute(request);
 
             var comments_response = client.Execute(request2);
+            
             // Checking the status and printing the response
-
             Console.WriteLine($"\nStatus: {response.StatusCode}");
             Console.WriteLine($"Content: {response.Content}");
             Console.WriteLine($"Post-Comments: {comments_response.Content}");
